@@ -213,6 +213,7 @@
     "name": "Old Prodigy: 1-16",
     "gameUrl": "files/prodigy/prodigy.html",
     "imageUrl": "img/IMG_0506.webp",
-    "porter": "fujisaki(entrapta)"
+    "porter": "fujisaki(entrapta)",
+    "featured": true
   }
 ]
