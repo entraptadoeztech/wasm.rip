@@ -207,5 +207,12 @@
     "gameUrl": "files/scp/index.html",
     "imageUrl": "img/scp.png",
     "porter": "q8j"
+  },
+  {
+    "id": 31,
+    "name": "Old Prodigy: 1-16",
+    "gameUrl": "files/prodigy/prodigy.html",
+    "imageUrl": "img/djdj",
+    "porter": "fujisaki(entrapta)"
   }
 ]
